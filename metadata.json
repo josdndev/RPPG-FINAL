@@ -1,0 +1,8 @@
+{
+  "name": "VitalSigns rPPG Estimator",
+  "description": "A web application that uses remote photoplethysmography (rPPG) to estimate vital signs like heart rate, respiratory rate, and HRV from a webcam video or an uploaded video file.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
